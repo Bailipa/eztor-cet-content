@@ -2,6 +2,8 @@
 
 > A complete, open, machine-readable CET-4 practice pack with printable papers, answer explanations, listening scripts, and generated audio.
 
+[English](README.md) · [中文](README.zh-CN.md)
+
 [![Content](https://img.shields.io/badge/content-CET--4-blue)](./content/cet4-original-002) [![License](https://img.shields.io/badge/license-GPL--3.0-green)](./LICENSE)
 
 This repository contains the second original CET-4 mock examination published by EZTor. It is designed for learners, teachers, and builders who want a reproducible exam content pack instead of a locked PDF.
