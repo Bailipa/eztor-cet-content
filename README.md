@@ -16,6 +16,11 @@ This repository contains the second original CET-4 mock examination published by
 - Printable question and answer PDFs
 - A generated listening track with a matching manifest
 
+## Available releases
+
+- [`cet4-original-001`](content/cet4-original-001) — first original pack
+- [`cet4-original-002`](content/cet4-original-002) — second original pack with expanded quality review
+
 ## Quick start
 
 1. Start with [`content/cet4-original-002/README.md`](content/cet4-original-002/README.md).

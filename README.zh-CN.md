@@ -16,6 +16,11 @@
 - 题目册和答案册 PDF
 - 与听力原文对应的完整音频和 manifest
 
+## 可用版本
+
+- [`cet4-original-001`](content/cet4-original-001) —— 第一套原创模拟卷
+- [`cet4-original-002`](content/cet4-original-002) —— 第二套原创模拟卷，包含更完整的质量复核
+
 ## 快速开始
 
 1. 阅读 [`content/cet4-original-002/README.md`](content/cet4-original-002/README.md)。
